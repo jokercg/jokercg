@@ -1,4 +1,4 @@
-- 👋 Hola, soy Jorge
+- 👋 Hola, soy Jorge br
 Diseñador gráfico con experiencia principalmente en diseño de impresiones, actualmente especializándome en diseño UX/UI, motivado en adquirir nuevos conocimientos y experiencias
 
 
