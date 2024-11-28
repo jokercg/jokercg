@@ -1,5 +1,5 @@
 👋 Hola, soy Jorge <br>
-Diseñador gráfico con experiencia principalmente en diseño de impresiones, actualmente especializándome en diseño UX/UI, motivado en adquirir nuevos conocimientos y experiencias
+Soy diseñador gráfico con conocimientos en UX/UI y un interés creciente en el desarrollo web. Estoy enfocado en mejorar mis habilidades y aprender continuamente
 
 
 <!---
